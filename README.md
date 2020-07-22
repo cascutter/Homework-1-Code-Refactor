@@ -6,9 +6,10 @@ codeRefactor is existing code, refactored for accessability.
 
 This is a refactor of existing code for an SEO company. The purpose of the refactor was to make this page accesible. This was achieved by adding semantic HTML elements to the existing code.
 
-## Example
+### Example
 
-// <article>
+```
+ <article>
                 <div id="online-reputation-management" class="online-reputation-management">
                     <img src="./assets/images/online-reputation-management.jpg" 
                     alt="Laptop displaying graphs and the word 'reputation'"
@@ -25,3 +26,9 @@ This is a refactor of existing code for an SEO company. The purpose of the refac
                     </p>
                 </div>
             </article> 
+```
+
+## Contributors
+
+* Original code by Horiseon
+* Refactor by Casandra Cutter
