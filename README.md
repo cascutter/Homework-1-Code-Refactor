@@ -1,10 +1,10 @@
 # codeRefactor
 
-codeRefactor is existing code, refactored for accessability.
+codeRefactor is existing code, refactored for accessibility.
 
 ## Motivation
 
-This is a refactor of existing code for an SEO company. The purpose of the refactor was to make this page accesible. This was achieved by adding semantic HTML elements to the existing code.
+This is a refactor of existing code for an SEO company. The purpose of the refactor was to make this page accessible. This was achieved by adding semantic HTML elements to the existing code.
 
 ### Example
 
